@@ -51,6 +51,9 @@ Coordinates of the Cameras (i.e. Latitude and Longitude)
 ![Screenshot 2023-11-26 145136](https://github.com/Atharva0177/Test-Git/assets/118592869/235e5211-398b-4cd4-861d-d45e54ff4387)
 After entering all the details CLICK on ADD CAMERA DATA to be viewed in the Data Window
 ![Screenshot 2023-11-26 151016](https://github.com/Atharva0177/Test-Git/assets/118592869/91d0c585-156f-4106-b0dc-b5c45350829f)
+Then CLICK on RUN CODE which will display " Camera Data has been saved to _Location_" prompt to indicate that the entered data is stored locally as an Excel Sheet in .csv Format.
+![Screenshot 2023-11-26 151304](https://github.com/Atharva0177/Test-Git/assets/118592869/605e1027-e35d-425b-a22c-92a0f30431eb)
+
 
 
 
