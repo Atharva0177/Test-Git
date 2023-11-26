@@ -32,9 +32,26 @@ Integrate with geolocation services or Application Programming Interfaces (APIs)
 # Operating the application for the Camera Data Input and Video Processing
 Let's start by opening the .exe file for the data input and processing
 
-* **Opening the Application**
+* **Opening the Application**  
 We will start by opening the application for the data input and video processing by clicking on the .exe file.
+Open the highlighted file by Double-Clicking on the Icon. 
 ![Screenshot 2023-11-26 144042](https://github.com/Atharva0177/Test-Git/assets/118592869/1231cfa9-2d4f-4fe4-8bbb-f4b4e15abb0a)
+
+* **View of the Application**
+After opening the Application, it should open the a Window in your PC with 2 Tabs for Camera Data and Video Processing respectively.
+![Screenshot 2023-11-26 144754](https://github.com/Atharva0177/Test-Git/assets/118592869/ce3e4f3e-f4a7-416b-929e-88bcc0822c6d)
+
+* **Camera Data Window**
+After opening the Window, the first tab is by Default the Camera Data Input Tab.  
+The First Step is to Input the all the Camera Details.  
+The Input Parameters include:
+The Number of Cameras
+Camera ID
+Coordinates of the Cameras (i.e. Latitude and Longitude)
+![Screenshot 2023-11-26 145136](https://github.com/Atharva0177/Test-Git/assets/118592869/235e5211-398b-4cd4-861d-d45e54ff4387)
+After entering all the details CLICK on <a href="#" class="Add Camera Data">Delete post</a>
+
+
 
 
 
