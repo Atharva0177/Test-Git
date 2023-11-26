@@ -26,8 +26,7 @@ Implement a robust software infrastructure for data storage, ensuring scalabilit
 __Communication Infrastructure:__  
 Develop reliable software for network infrastructure to facilitate seamless communication and data transmission between CCTV cameras, machine learning models, databases, and the alerting utility.  
 __Geolocation Services:__  
-Integrate with geolocation services or Application Programming Interfaces (APIs) to accurately determine the geographical location of CCTV cameras and detected crime incidents.
-__Jupyter Notebook:__
+Integrate with geolocation services or Application Programming Interfaces (APIs) to accurately determine the geographical location of CCTV cameras and detected crime incidents.  
 
 
 # Operating the application for the Camera Data Input and Video Processing
