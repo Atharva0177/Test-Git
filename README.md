@@ -41,7 +41,7 @@ Open the highlighted file by Double-Clicking on the Icon.
 After opening the Application, it should open the a Window in your PC with 2 Tabs for Camera Data and Video Processing respectively.
 ![Screenshot 2023-11-26 144754](https://github.com/Atharva0177/Test-Git/assets/118592869/ce3e4f3e-f4a7-416b-929e-88bcc0822c6d)
 
-* **Camera Data Window**
+* **Camera Data Window**  
 After opening the Window, the first tab is by Default the Camera Data Input Tab.  
 The First Step is to Input the all the Camera Details.  
 The Input Parameters include:
@@ -53,6 +53,9 @@ After entering all the details CLICK on ADD CAMERA DATA to be viewed in the Data
 ![Screenshot 2023-11-26 151016](https://github.com/Atharva0177/Test-Git/assets/118592869/91d0c585-156f-4106-b0dc-b5c45350829f)
 Then CLICK on RUN CODE which will display " Camera Data has been saved to _Location_" prompt to indicate that the entered data is stored locally as an Excel Sheet in .csv Format.
 ![Screenshot 2023-11-26 151304](https://github.com/Atharva0177/Test-Git/assets/118592869/605e1027-e35d-425b-a22c-92a0f30431eb)
+Then we can see locally that a New Folder is Created under the title "Camera_loc_database" and in that a .csv file has been created![Screenshot 2023-11-26 151856](https://github.com/Atharva0177/Test-Git/assets/118592869/63dca788-7eba-489e-a9be-74bffed65840)
+![Screenshot 2023-11-26 151815](https://github.com/Atharva0177/Test-Git/assets/118592869/abe62377-bd00-4699-85b7-093e145a1d81)
+
 
 
 
