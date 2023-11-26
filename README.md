@@ -72,6 +72,8 @@ The next step is to decide the snippet's parameters which are the Frame Width an
 ![Screenshot 2023-11-26 153239](https://github.com/Atharva0177/Test-Git/assets/118592869/b724a20b-bbe4-4ea0-94e2-1b5aa23b7ace)  
 Then we can select from the following BUTTONS as per our requirement  
 - **Create Snippets:** After clicking on this BUTTON the entered Video will be processed as per the specifications and the created SNIPPTES are stored locally![Screenshot 2023-11-26 153840](https://github.com/Atharva0177/Test-Git/assets/118592869/b6813a8b-d2fd-4c84-8d8e-a584ae55b3fb)
+A new Folder is Created under the Title "output_resized" in which the snippets are saved in .avi format![Screenshot 2023-11-26 154300](https://github.com/Atharva0177/Test-Git/assets/118592869/5d628730-29ef-417d-9943-027bb54766c9)
+![Screenshot 2023-11-26 154007](https://github.com/Atharva0177/Test-Git/assets/118592869/8aa3386e-2e81-4c2b-9afa-a23f213b5a3c)
 
 
 
