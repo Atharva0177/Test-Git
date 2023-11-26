@@ -70,8 +70,8 @@ Also the application can accept the Video in multiple formats such as .mp4, .avi
 The next step is to decide the snippet's parameters which are the Frame Width and Height as well as the Duration, if none of the parameters are entered it will take default values as 
 224x224 pixels and a duration of 2 seconds.
 ![Screenshot 2023-11-26 153239](https://github.com/Atharva0177/Test-Git/assets/118592869/b724a20b-bbe4-4ea0-94e2-1b5aa23b7ace)  
-Then we can select from the following BUTTONS as per our requirement
-_* **Create Snippets**
+Then we can select from the following BUTTONS as per our requirement  
+_**Create Snippets**
 
 
 
