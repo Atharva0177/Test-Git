@@ -7,6 +7,6 @@ While AI and machine learning algorithms can be effective in detecting criminal 
 
 # Prerequisites
 * Hardware
-Existing CCTV Infrastructure: Availability and deployment of a network of CCTV cameras in the targeted areas or markets.
-Edge Devices: Integration of edge devices for distributed processing, ensuring efficient execution of AI models.
-Hardware Resources: Adequate hardware resources, including GPUs or TPUs, to support the efficient running of machine learning models.
+Existing CCTV Infrastructure: Availability and deployment of a network of CCTV cameras in the targeted areas or markets.   
+Edge Devices: Integration of edge devices for distributed processing, ensuring efficient execution of AI models.  
+Hardware Resources: Adequate hardware resources, including GPUs or TPUs, to support the efficient running of machine learning models. 
