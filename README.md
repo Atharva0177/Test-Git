@@ -6,4 +6,4 @@ The system can be seamlessly integrated with existing security cameras, which ca
 While AI and machine learning algorithms can be effective in detecting criminal activities, they are not perfect and can sometimes produce false positives. Therefore, it is important to use these technologies in conjunction with human intelligence (Human Validation Mechanism) and expertise to ensure the best possible outcomes. proposed smart system has the potential to be a game-changer in enhancing security, safeguarding communities, and improving overall safety in various settings.
 
 # Prerequisites
-*Hardware :
+* Hardware :
