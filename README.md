@@ -32,7 +32,7 @@ Integrate with geolocation services or Application Programming Interfaces (APIs)
 # Operating the application for the Camera Data Input and Video Processing
 Let's start by opening the .exe file for the data input and processing
 
-**Opening the Application**
+* **Opening the Application**
 We will start by opening the application for the data input and video processing by clicking on the .exe file.
 ![Screenshot 2023-11-26 144042](https://github.com/Atharva0177/Test-Git/assets/118592869/1231cfa9-2d4f-4fe4-8bbb-f4b4e15abb0a)
 
