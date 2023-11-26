@@ -65,7 +65,10 @@ The First Parameter is to SELECT the Video which is to be proceesed.
 To SELECT the Video CLICK on BROWSE VIDEO which will open the File Explorer and then select the required video.
 ![Screenshot 2023-11-26 152606](https://github.com/Atharva0177/Test-Git/assets/118592869/5977258f-6625-481a-b5c1-0ed891113308)
 ![Screenshot 2023-11-26 152708](https://github.com/Atharva0177/Test-Git/assets/118592869/1944b831-ee8c-472c-a16f-ba7f7755728c)
-
+Also the application can accept the Video in multiple formats such as .mp4, .avi, .mkv
+  
+The next step is to decide the snippet's parameters which are the Frame Width and Height as well as the Duration, if none of the parameters are entered it will take default values as 
+224x224 pixels and a duration of 2 seconds.
 
 
 
