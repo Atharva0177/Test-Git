@@ -38,7 +38,7 @@ Open the highlighted file by Double-Clicking on the Icon.
 ![Screenshot 2023-11-26 144042](https://github.com/Atharva0177/Test-Git/assets/118592869/1231cfa9-2d4f-4fe4-8bbb-f4b4e15abb0a)
 
 * **View of the Application**
-After opening the Application, it should open the a Window in your PC with 2 Tabs for Camera Data and Video Processing respectively.
+After opening the Application, it should open the a Window in your PC with 2 Tabs for Camera Data and Video Processing respectively.  
 ![Screenshot 2023-11-26 144754](https://github.com/Atharva0177/Test-Git/assets/118592869/ce3e4f3e-f4a7-416b-929e-88bcc0822c6d)
 
 * **Camera Data Window**  
