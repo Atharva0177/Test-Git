@@ -49,7 +49,7 @@ The Number of Cameras
 Camera ID
 Coordinates of the Cameras (i.e. Latitude and Longitude)
 ![Screenshot 2023-11-26 145136](https://github.com/Atharva0177/Test-Git/assets/118592869/235e5211-398b-4cd4-861d-d45e54ff4387)
-After entering all the details CLICK on <a href="#" class="Add Camera Data">Add Camera Data</a>
+After entering all the details CLICK on <a href="/settings/apps/custom">Click on Custom apps</a>
 
 
 
