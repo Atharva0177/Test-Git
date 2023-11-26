@@ -7,13 +7,13 @@ While AI and machine learning algorithms can be effective in detecting criminal 
 
 # Prerequisites
 * **Hardware**   
-Existing CCTV Infrastructure: Availability and deployment of a network of CCTV cameras in the targeted areas or markets.   
-Edge Devices: Integration of edge devices for distributed processing, ensuring efficient execution of AI models.  
-Hardware Resources: Adequate hardware resources, including GPUs or TPUs, to support the efficient running of machine learning models.
+__Existing CCTV Infrastructure:__ Availability and deployment of a network of CCTV cameras in the targeted areas or markets.   
+__Edge Devices:__ Integration of edge devices for distributed processing, ensuring efficient execution of AI models.  
+__Hardware Resources:__ Adequate hardware resources, including GPUs or TPUs, to support the efficient running of machine learning models.
 
 * **Software**  
-Machine Learning Frameworks: Access to cutting-edge machine learning frameworks, specifically 3D CNN, Multiple Instance Learning, and Video Transformer models.  
-Data Storage Infrastructure: Implementation of a robust software infrastructure for data storage and backup to manage recorded crime data and historical CCTV footage.  
-Communication Infrastructure: Development of a reliable software network infrastructure to facilitate seamless data transmission between CCTV cameras, machine learning models, databases, and the alerting utility.  
-Geolocation Services: Integration with geolocation services or APIs to determine the precise location of CCTV cameras and detected crimes.
+__Machine Learning Frameworks:__ Access to cutting-edge machine learning frameworks, specifically 3D CNN, Multiple Instance Learning, and Video Transformer models.  
+__Data Storage Infrastructure:__ Implementation of a robust software infrastructure for data storage and backup to manage recorded crime data and historical CCTV footage.  
+__Communication Infrastructure:__ Development of a reliable software network infrastructure to facilitate seamless data transmission between CCTV cameras, machine learning models, databases, and the alerting utility.  
+__Geolocation Services:__ Integration with geolocation services or APIs to determine the precise location of CCTV cameras and detected crimes.
 
