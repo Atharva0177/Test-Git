@@ -49,7 +49,9 @@ The Number of Cameras
 Camera ID
 Coordinates of the Cameras (i.e. Latitude and Longitude)
 ![Screenshot 2023-11-26 145136](https://github.com/Atharva0177/Test-Git/assets/118592869/235e5211-398b-4cd4-861d-d45e54ff4387)
-After entering all the details CLICK on '''ADD CAMERA DATA'''
+After entering all the details CLICK on ADD CAMERA DATA to be viewed in the Data Window  
+![Screenshot 2023-11-26 151016](https://github.com/Atharva0177/Test-Git/assets/118592869/91d0c585-156f-4106-b0dc-b5c45350829f)
+
 
 
 
