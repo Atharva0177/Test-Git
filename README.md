@@ -57,7 +57,7 @@ Then we can see locally that a New Folder is Created under the title "Camera_loc
 ![Screenshot 2023-11-26 151815](https://github.com/Atharva0177/Test-Git/assets/118592869/abe62377-bd00-4699-85b7-093e145a1d81)  
 ![Screenshot 2023-11-26 151856](https://github.com/Atharva0177/Test-Git/assets/118592869/63dca788-7eba-489e-a9be-74bffed65840)  
 
-* **Video Proceesing Window**
+* **Video Proceesing Window**  
 Now, we move to the Video Processing Window in which the Feed from the CCTV will be processed as per the requirements.
 To open the Video Processing Tab CLICK on VIDEO PROCESSING  
 ![Screenshot 2023-11-26 152340](https://github.com/Atharva0177/Test-Git/assets/118592869/9e8672d7-3dd9-45e7-96d2-25fc41ec0fb5)  
