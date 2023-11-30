@@ -28,6 +28,11 @@ Develop reliable software for network infrastructure to facilitate seamless comm
 __Geolocation Services:__  
 Integrate with geolocation services or Application Programming Interfaces (APIs) to accurately determine the geographical location of CCTV cameras and detected crime incidents.  
 
+# Workflow of the Application
+![Flowchart (2)](https://github.com/Atharva0177/Test-Git/assets/118592869/30663d9a-c41f-4d81-8897-4ad3603c2ad5)
+
+
+
 
 # Operating the application for the Camera Data Input and Video Processing
 Let's start by opening the .exe file for the data input and processing
@@ -36,6 +41,7 @@ Let's start by opening the .exe file for the data input and processing
 We will start by opening the application for the data input and video processing by clicking on the .exe file.
 Open the highlighted file by Double-Clicking on the Icon. 
 ![Screenshot 2023-11-26 144042](https://github.com/Atharva0177/Test-Git/assets/118592869/1231cfa9-2d4f-4fe4-8bbb-f4b4e15abb0a)  
+![Flowchart (2)](https://github.com/Atharva0177/Test-Git/assets/118592869/6078a1d1-502e-4666-a28d-212d0b70a9df)
 
 * **View of the Application**
 After opening the Application, it should open the a Window in your PC with 2 Tabs for Camera Data and Video Processing respectively.    
