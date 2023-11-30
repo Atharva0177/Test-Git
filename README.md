@@ -125,9 +125,6 @@ Thank you for going through this Tutorial! We hope that you found it valuable.
 
 
 
-<button>
-    <a href="https://github.com/"> Go to your Github Repo </a>
-</button>
 
 
 
