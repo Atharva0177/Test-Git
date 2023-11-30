@@ -40,7 +40,7 @@ Incident Detection: This component is responsible for detecting incidents of cri
 
 Incident Reporting: This component is responsible for reporting incidents of crime to the railway authorities. The incident reporting component sends alerts to the mobile app used by railway authorities, along with video feeds and other relevant information.
 
-Incident Response: This component is responsible for responding to incidents of crime in the railway environment. The incident response component allows railway authorities to communicate with each other and coordinate their response to incidents of crime.
+Incident Response: This component is responsible for responding to incidents of crime in the railway environment. The incident response component allows railway authorities to communicate with each other and coordinate their response to incidents of crime.  
 
 
 
