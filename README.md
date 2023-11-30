@@ -87,6 +87,7 @@ A new Folder is Created under the Title "output_resized" in which the snippets a
 A new Folder is Created under the Title "output_frames" in which the extracted frames will be stored
 ![Screenshot 2023-11-30 215927](https://github.com/Atharva0177/Test-Git/assets/118592869/714d206a-c445-41ac-97d1-5d4998c520cb)
 ![Screenshot 2023-11-30 215957](https://github.com/Atharva0177/Test-Git/assets/118592869/6c5f03bd-0a16-43eb-bcc5-b676e08100f1)
+
 - **Self Capture:** The SELF CAPTURE button when clicked on accesses the webcam of your device and when provided with specified time duration will start to capture from the camera and convert into snippets of desired duration
 Once clicked on SELF CAPTURE the button changes to STOP CAPTURE denoting the capture has started and when again clicked will show a prompt "Webcam Capture has Stopped" and stop the capturing 
 ![Screenshot 2023-11-30 215249](https://github.com/Atharva0177/Test-Git/assets/118592869/19ca7a6f-3e72-4d64-b235-cc9bac6cb3a1)
