@@ -29,7 +29,8 @@ __Geolocation Services:__
 Integrate with geolocation services or Application Programming Interfaces (APIs) to accurately determine the geographical location of CCTV cameras and detected crime incidents.  
 
 # Workflow of the Application
-![Flowchart (2)](https://github.com/Atharva0177/Test-Git/assets/118592869/30663d9a-c41f-4d81-8897-4ad3603c2ad5)
+![Flowchart (2)](https://github.com/Atharva0177/Test-Git/assets/118592869/30663d9a-c41f-4d81-8897-4ad3603c2ad5)  
+
 
 
 
@@ -93,7 +94,26 @@ Once clicked on SELF CAPTURE the button changes to STOP CAPTURE denoting the cap
 ![Screenshot 2023-11-30 215249](https://github.com/Atharva0177/Test-Git/assets/118592869/19ca7a6f-3e72-4d64-b235-cc9bac6cb3a1)  
 A new Folder is Created under the Title "output_webcam_snippets" in which the snippets from the webcam will be stored  
 ![Screenshot 2023-11-30 220736](https://github.com/Atharva0177/Test-Git/assets/118592869/b372c268-ade6-494e-9bad-2311743856ea)
-![Screenshot 2023-11-30 220817](https://github.com/Atharva0177/Test-Git/assets/118592869/888f9c18-c466-4e63-9f50-d041c2865de9)
+![Screenshot 2023-11-30 220817](https://github.com/Atharva0177/Test-Git/assets/118592869/888f9c18-c466-4e63-9f50-d041c2865de9)  
+
+- **Browse Images and Paste:** This button helps the user to transfer any type of images from any location in the device to the root folder of the application
+![Screenshot 2023-11-30 221250](https://github.com/Atharva0177/Test-Git/assets/118592869/a2af22d0-55a2-41c6-bf81-42ef43061bfb)
+A new Folder is Created under the title "output_images" in the root folder of the application where the transfered images are stored
+![Screenshot 2023-11-30 221614](https://github.com/Atharva0177/Test-Git/assets/118592869/28bc5afb-d5f9-4455-8340-7724bf03ab3c)
+![Screenshot 2023-11-30 221648](https://github.com/Atharva0177/Test-Git/assets/118592869/3aee919f-4b5d-49e9-b14f-9c97b8389322)
+
+- **Transfer Folder:** This button allows the user to transfer any type of folder from anywhere in the device to anywhere in the device
+![Screenshot 2023-11-30 221943](https://github.com/Atharva0177/Test-Git/assets/118592869/9a0124c2-20dc-4096-8b3e-b51bdce12881)  
+For Example: I want to transfer a Folder named "Dice_30-11-2023_22-22-23" to a specifed destination lets say the root folder of the application
+For that I will select the folder to be copied
+![Screenshot 2023-11-30 222121](https://github.com/Atharva0177/Test-Git/assets/118592869/61d93668-007f-4dd4-b63f-a2eca1533dbc)
+Then I will select the Destination Folder and the selected folder will be transferred to the Location
+![Screenshot 2023-11-30 222420](https://github.com/Atharva0177/Test-Git/assets/118592869/bc95b69f-ed90-4783-82c6-29abcb4e874c)
+
+
+
+ 
+
 
 
 
