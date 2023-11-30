@@ -49,7 +49,7 @@ Integrate with geolocation services or Application Programming Interfaces (APIs)
 Let's start by opening the .exe file for the data input and processing
 
 * **Opening the Application**  
-We will start by opening the application for the data input and video processing by clicking on the `.exe` file.
+We will start by opening the application for the data input and video processing by clicking on the `GUI.exe` file.
 Open the highlighted file by Double-Clicking on the Icon. 
 ![Screenshot 2023-11-26 144042](https://github.com/Atharva0177/Test-Git/assets/118592869/1231cfa9-2d4f-4fe4-8bbb-f4b4e15abb0a)  
 
