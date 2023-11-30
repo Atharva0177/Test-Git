@@ -81,7 +81,14 @@ Then we can select from the following BUTTONS as per our requirement
   ![Screenshot 2023-11-26 153840](https://github.com/Atharva0177/Test-Git/assets/118592869/b6813a8b-d2fd-4c84-8d8e-a584ae55b3fb)  
 A new Folder is Created under the Title "output_resized" in which the snippets are saved in .avi format  
 ![Screenshot 2023-11-26 154300](https://github.com/Atharva0177/Test-Git/assets/118592869/5d628730-29ef-417d-9943-027bb54766c9)  
-![Screenshot 2023-11-26 154007](https://github.com/Atharva0177/Test-Git/assets/118592869/8aa3386e-2e81-4c2b-9afa-a23f213b5a3c)  
+![Screenshot 2023-11-26 154007](https://github.com/Atharva0177/Test-Git/assets/118592869/8aa3386e-2e81-4c2b-9afa-a23f213b5a3c)
+- **Create Frames:** When CLICKED on the CREATE FRAME button all the individual frames for the selected video will be created and stored locally
+![Screenshot 2023-11-30 215744](https://github.com/Atharva0177/Test-Git/assets/118592869/0343a87d-6cb7-4f1c-a06b-68ae18b3c865)
+A new Folder is Created under the Title "output_frames" in which the extracted frames will be stored
+![Screenshot 2023-11-30 215957](https://github.com/Atharva0177/Test-Git/assets/118592869/6c5f03bd-0a16-43eb-bcc5-b676e08100f1)
+![Screenshot 2023-11-30 215927](https://github.com/Atharva0177/Test-Git/assets/118592869/714d206a-c445-41ac-97d1-5d4998c520cb)
+
+  
 
 
 
