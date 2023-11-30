@@ -31,7 +31,6 @@ Integrate with geolocation services or Application Programming Interfaces (APIs)
 # Workflow of the Application
 ![Flowchart (2)](https://github.com/Atharva0177/Test-Git/assets/118592869/30663d9a-c41f-4d81-8897-4ad3603c2ad5)  
 * **Video Processing:** This component is responsible for processing video feeds from cameras installed in the railway environment. The video processing component analyzes the video feeds to detect any suspicious activity or behavior.  
-
 * **Crowd Monitoring:** This component is responsible for monitoring the crowd in the railway environment. The crowd monitoring component uses sensors and cameras to detect any unusual crowd behavior or movement.  
 
 * **Mobile App:** This component is a mobile application that is used by railway authorities to report and respond to incidents of crime in the railway environment. The mobile app allows railway authorities to receive alerts, view video feeds, and communicate with other authorities.  
