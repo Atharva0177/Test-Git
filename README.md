@@ -49,7 +49,7 @@ Integrate with geolocation services or Application Programming Interfaces (APIs)
 Let's start by opening the .exe file for the data input and processing
 
 * **Opening the Application**  
-We will start by opening the application for the data input and video processing by clicking on the .exe file.
+We will start by opening the application for the data input and video processing by clicking on the `.exe` file.
 Open the highlighted file by Double-Clicking on the Icon. 
 ![Screenshot 2023-11-26 144042](https://github.com/Atharva0177/Test-Git/assets/118592869/1231cfa9-2d4f-4fe4-8bbb-f4b4e15abb0a)  
 
@@ -66,20 +66,20 @@ The Number of Cameras
 Camera ID
 Coordinates of the Cameras (i.e. Latitude and Longitude)  
 ![Screenshot 2023-11-26 145136](https://github.com/Atharva0177/Test-Git/assets/118592869/235e5211-398b-4cd4-861d-d45e54ff4387)  
-After entering all the details CLICK on ADD CAMERA DATA to be viewed in the Data Window  
+After entering all the details CLICK on `ADD CAMERA DATA` to be viewed in the Data Window  
 ![Screenshot 2023-11-26 151016](https://github.com/Atharva0177/Test-Git/assets/118592869/91d0c585-156f-4106-b0dc-b5c45350829f)  
-Then CLICK on RUN CODE which will display " Camera Data has been saved to _Location_" prompt to indicate that the entered data is stored locally as an Excel Sheet in .csv Format.  
+Then CLICK on `RUN CODE` which will display ` Camera Data has been saved to _Location_` prompt to indicate that the entered data is stored locally as an Excel Sheet in .csv Format.  
 ![Screenshot 2023-11-26 151304](https://github.com/Atharva0177/Test-Git/assets/118592869/605e1027-e35d-425b-a22c-92a0f30431eb)  
-Then we can see locally that a New Folder is Created under the title "Camera_loc_database" and in that a .csv file has been created  
+Then we can see locally that a New Folder is Created under the title `Camera_loc_database` and in that a .csv file has been created  
 ![Screenshot 2023-11-26 151815](https://github.com/Atharva0177/Test-Git/assets/118592869/abe62377-bd00-4699-85b7-093e145a1d81)  
 ![Screenshot 2023-11-26 151856](https://github.com/Atharva0177/Test-Git/assets/118592869/63dca788-7eba-489e-a9be-74bffed65840)  
 
 * **Video Proceesing Window**  
 Now, we move to the Video Processing Window in which the Feed from the CCTV will be processed as per the requirements.
-To open the Video Processing Tab CLICK on VIDEO PROCESSING  
+To open the Video Processing Tab CLICK on `VIDEO PROCESSING`  
 ![Screenshot 2023-11-26 152340](https://github.com/Atharva0177/Test-Git/assets/118592869/9e8672d7-3dd9-45e7-96d2-25fc41ec0fb5)  
 The First Parameter is to SELECT the Video which is to be proceesed.
-To SELECT the Video CLICK on BROWSE VIDEO which will open the File Explorer and then select the required video.  
+To SELECT the Video CLICK on `BROWSE VIDEO` which will open the File Explorer and then select the required video.  
 ![Screenshot 2023-11-26 152606](https://github.com/Atharva0177/Test-Git/assets/118592869/5977258f-6625-481a-b5c1-0ed891113308)  
 ![Screenshot 2023-11-26 152708](https://github.com/Atharva0177/Test-Git/assets/118592869/1944b831-ee8c-472c-a16f-ba7f7755728c)  
 Also the application can accept the Video in multiple formats such as .mp4, .avi, .mkv
@@ -88,31 +88,31 @@ The next step is to decide the snippet's parameters which are the Frame Width an
 224x224 pixels and a duration of 2 seconds.  
 ![Screenshot 2023-11-26 153239](https://github.com/Atharva0177/Test-Git/assets/118592869/b724a20b-bbe4-4ea0-94e2-1b5aa23b7ace)    
 Then we can select from the following BUTTONS as per our requirement  
-- **Create Snippets:** After clicking on this BUTTON the entered Video will be processed as per the specifications and the created SNIPPTES are stored locally  
+- **Create Snippets:** After clicking on this `Create Snippets` the entered Video will be processed as per the specifications and the created SNIPPETS are stored locally  
   ![Screenshot 2023-11-26 153840](https://github.com/Atharva0177/Test-Git/assets/118592869/b6813a8b-d2fd-4c84-8d8e-a584ae55b3fb)  
-A new Folder is Created under the Title "output_resized" in which the snippets are saved in .avi format  
+A new Folder is Created under the Title `output_resized` in which the snippets are saved in .avi format  
 ![Screenshot 2023-11-26 154300](https://github.com/Atharva0177/Test-Git/assets/118592869/5d628730-29ef-417d-9943-027bb54766c9)  
 ![Screenshot 2023-11-26 154007](https://github.com/Atharva0177/Test-Git/assets/118592869/8aa3386e-2e81-4c2b-9afa-a23f213b5a3c)
-- **Create Frames:** When CLICKED on the CREATE FRAME button all the individual frames for the selected video will be created and stored locally
+- **Create Frames:** When CLICKED on the `Create Frames` button all the individual frames for the selected video will be created and stored locally
 ![Screenshot 2023-11-30 215744](https://github.com/Atharva0177/Test-Git/assets/118592869/0343a87d-6cb7-4f1c-a06b-68ae18b3c865)
-A new Folder is Created under the Title "output_frames" in which the extracted frames will be stored
+A new Folder is Created under the Title `output_frames` in which the extracted frames will be stored
 ![Screenshot 2023-11-30 215927](https://github.com/Atharva0177/Test-Git/assets/118592869/714d206a-c445-41ac-97d1-5d4998c520cb)
 ![Screenshot 2023-11-30 215957](https://github.com/Atharva0177/Test-Git/assets/118592869/6c5f03bd-0a16-43eb-bcc5-b676e08100f1)
 
-- **Self Capture:** The SELF CAPTURE button when clicked on accesses the webcam of your device and when provided with specified time duration will start to capture from the camera and convert into snippets of desired duration  
-Once clicked on SELF CAPTURE the button changes to STOP CAPTURE denoting the capture has started and when again clicked will show a prompt "Webcam Capture has Stopped" and stop the capturing   
+- **Self Capture:** The `Self Capture` button when clicked on accesses the webcam of your device and when provided with specified time duration will start to capture from the camera and convert into snippets of desired duration  
+Once clicked on `Self Capture` the button changes to `Stop Capture` denoting the capture has started and when again clicked will show a prompt `Webcam Capture has Stopped` and stop the capturing   
 ![Screenshot 2023-11-30 215249](https://github.com/Atharva0177/Test-Git/assets/118592869/19ca7a6f-3e72-4d64-b235-cc9bac6cb3a1)  
-A new Folder is Created under the Title "output_webcam_snippets" in which the snippets from the webcam will be stored  
+A new Folder is Created under the Title `output_webcam_snippets` in which the snippets from the webcam will be stored  
 ![Screenshot 2023-11-30 220736](https://github.com/Atharva0177/Test-Git/assets/118592869/b372c268-ade6-494e-9bad-2311743856ea)
 ![Screenshot 2023-11-30 220817](https://github.com/Atharva0177/Test-Git/assets/118592869/888f9c18-c466-4e63-9f50-d041c2865de9)  
 
-- **Browse Images and Paste:** This button helps the user to transfer any type of images from any location in the device to the root folder of the application
+- **Browse Images and Paste:** When CLICKED on `Browse Images and Paste` the user is able to transfer any type of images from any location in the device to the root folder of the application
 ![Screenshot 2023-11-30 221250](https://github.com/Atharva0177/Test-Git/assets/118592869/a2af22d0-55a2-41c6-bf81-42ef43061bfb)
-A new Folder is Created under the title "output_images" in the root folder of the application where the transfered images are stored
+A new Folder is Created under the title `output_images` in the root folder of the application where the transfered images are stored
 ![Screenshot 2023-11-30 221614](https://github.com/Atharva0177/Test-Git/assets/118592869/28bc5afb-d5f9-4455-8340-7724bf03ab3c)
 ![Screenshot 2023-11-30 221648](https://github.com/Atharva0177/Test-Git/assets/118592869/3aee919f-4b5d-49e9-b14f-9c97b8389322)
 
-- **Transfer Folder:** This button allows the user to transfer any type of folder from anywhere in the device to anywhere in the device
+- **Transfer Folder:** This `Transfer Folder` button allows the user to transfer any type of folder from anywhere in the device to anywhere in the device
 ![Screenshot 2023-11-30 221943](https://github.com/Atharva0177/Test-Git/assets/118592869/9a0124c2-20dc-4096-8b3e-b51bdce12881)  
 For Example: I want to transfer a Folder named "Dice_30-11-2023_22-22-23" to a specifed destination lets say the root folder of the application
 For that I will select the folder to be copied
