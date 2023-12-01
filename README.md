@@ -73,8 +73,7 @@ Then CLICK on `RUN CODE` which will display ` Camera Data has been saved to _Loc
 ![Screenshot 2023-11-26 151304](https://github.com/Atharva0177/Test-Git/assets/118592869/605e1027-e35d-425b-a22c-92a0f30431eb)  
 Then we can see locally that a New Folder is Created under the title `Camera_loc_database` and in that a .csv file has been created  
 ![Screenshot 2023-11-26 151815](https://github.com/Atharva0177/Test-Git/assets/118592869/2c533f6d-8154-43c1-b84c-a3f92fe1ee16)  
- 
-![Screenshot 2023-11-26 151856](https://github.com/Atharva0177/Test-Git/assets/118592869/e662ddea-ce00-47ef-94cc-c0a934bd94ef)
+ ![Screenshot 2023-11-26 151856](https://github.com/Atharva0177/Test-Git/assets/118592869/e662ddea-ce00-47ef-94cc-c0a934bd94ef)  
  
 
 * **Video Proceesing Window**  
@@ -105,20 +104,24 @@ A new Folder is Created under the Title `output_resized` in which the snippets a
 A new Folder is Created under the Title `output_frames` in which the extracted frames will be stored
 ![Screenshot 2023-11-30 215927](https://github.com/Atharva0177/Test-Git/assets/118592869/79132361-4b34-4760-83bc-192a586bbb80)
 
-![Screenshot 2023-11-30 215957](https://github.com/Atharva0177/Test-Git/assets/118592869/6c5f03bd-0a16-43eb-bcc5-b676e08100f1)
+![Screenshot 2023-11-30 215957](https://github.com/Atharva0177/Test-Git/assets/118592869/09033895-04d5-4019-aa18-07081d3eeb1f)
+
 
 - **Self Capture:** The `Self Capture` button when clicked on accesses the webcam of your device and when provided with specified time duration will start to capture from the camera and convert into snippets of desired duration  
 Once clicked on `Self Capture` the button changes to `Stop Capture` denoting the capture has started and when again clicked will show a prompt `Webcam Capture has Stopped` and stop the capturing   
 ![Screenshot 2023-11-30 215249](https://github.com/Atharva0177/Test-Git/assets/118592869/19ca7a6f-3e72-4d64-b235-cc9bac6cb3a1)  
 A new Folder is Created under the Title `output_webcam_snippets` in which the snippets from the webcam will be stored  
-![Screenshot 2023-11-30 220736](https://github.com/Atharva0177/Test-Git/assets/118592869/b372c268-ade6-494e-9bad-2311743856ea)
-![Screenshot 2023-11-30 220817](https://github.com/Atharva0177/Test-Git/assets/118592869/888f9c18-c466-4e63-9f50-d041c2865de9)  
+![Screenshot 2023-11-30 220736](https://github.com/Atharva0177/Test-Git/assets/118592869/b372c268-ade6-494e-9bad-2311743856ea)  
+![Screenshot 2023-11-30 220817](https://github.com/Atharva0177/Test-Git/assets/118592869/0b94900b-cb3a-4f75-8bbc-d9da8e90d860)
+ 
 
 - **Browse Images and Paste:** When CLICKED on `Browse Images and Paste` the user is able to transfer any type of images from any location in the device to the root folder of the application
 ![Screenshot 2023-11-30 221250](https://github.com/Atharva0177/Test-Git/assets/118592869/a2af22d0-55a2-41c6-bf81-42ef43061bfb)
 A new Folder is Created under the title `output_images` in the root folder of the application where the transfered images are stored
-![Screenshot 2023-11-30 221614](https://github.com/Atharva0177/Test-Git/assets/118592869/28bc5afb-d5f9-4455-8340-7724bf03ab3c)
-![Screenshot 2023-11-30 221648](https://github.com/Atharva0177/Test-Git/assets/118592869/3aee919f-4b5d-49e9-b14f-9c97b8389322)
+![Screenshot 2023-11-30 221614](https://github.com/Atharva0177/Test-Git/assets/118592869/cf4b2232-8b8f-46bc-aac8-8cf8aa4162cb)
+
+![Screenshot 2023-11-30 221648](https://github.com/Atharva0177/Test-Git/assets/118592869/f6464b4a-2b6e-4f30-a82a-712f48edd060)
+
 
 - **Transfer Folder:** This `Transfer Folder` button allows the user to transfer any type of folder from anywhere in the device to anywhere in the device
 ![Screenshot 2023-11-30 221943](https://github.com/Atharva0177/Test-Git/assets/118592869/9a0124c2-20dc-4096-8b3e-b51bdce12881)  
