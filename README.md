@@ -72,8 +72,10 @@ After entering all the details CLICK on `ADD CAMERA DATA` to be viewed in the Da
 Then CLICK on `RUN CODE` which will display ` Camera Data has been saved to _Location_` prompt to indicate that the entered data is stored locally as an Excel Sheet in .csv Format.  
 ![Screenshot 2023-11-26 151304](https://github.com/Atharva0177/Test-Git/assets/118592869/605e1027-e35d-425b-a22c-92a0f30431eb)  
 Then we can see locally that a New Folder is Created under the title `Camera_loc_database` and in that a .csv file has been created  
-![Screenshot 2023-11-26 151815](https://github.com/Atharva0177/Test-Git/assets/118592869/abe62377-bd00-4699-85b7-093e145a1d81)  
-![Screenshot 2023-11-26 151856](https://github.com/Atharva0177/Test-Git/assets/118592869/63dca788-7eba-489e-a9be-74bffed65840)  
+![Screenshot 2023-11-26 151815](https://github.com/Atharva0177/Test-Git/assets/118592869/2c533f6d-8154-43c1-b84c-a3f92fe1ee16)  
+ 
+![Screenshot 2023-11-26 151856](https://github.com/Atharva0177/Test-Git/assets/118592869/e662ddea-ce00-47ef-94cc-c0a934bd94ef)
+ 
 
 * **Video Proceesing Window**  
 Now, we move to the Video Processing Window in which the Feed from the CCTV will be processed as per the requirements.
@@ -81,8 +83,9 @@ To open the Video Processing Tab CLICK on `VIDEO PROCESSING`
 ![Screenshot 2023-11-26 152340](https://github.com/Atharva0177/Test-Git/assets/118592869/9e8672d7-3dd9-45e7-96d2-25fc41ec0fb5)  
 The First Parameter is to SELECT the Video which is to be proceesed.
 To SELECT the Video CLICK on `BROWSE VIDEO` which will open the File Explorer and then select the required video.  
-![Screenshot 2023-11-26 152606](https://github.com/Atharva0177/Test-Git/assets/118592869/5977258f-6625-481a-b5c1-0ed891113308)  
-![Screenshot 2023-11-26 152708](https://github.com/Atharva0177/Test-Git/assets/118592869/1944b831-ee8c-472c-a16f-ba7f7755728c)  
+![Screenshot 2023-11-26 152606](https://github.com/Atharva0177/Test-Git/assets/118592869/5977258f-6625-481a-b5c1-0ed891113308)    
+![Screenshot 2023-11-26 152708](https://github.com/Atharva0177/Test-Git/assets/118592869/6e1fb3b4-0e20-4a4d-b92c-03bc104abb26)  
+ 
 Also the application can accept the Video in multiple formats such as .mp4, .avi, .mkv
   
 The next step is to decide the snippet's parameters which are the Frame Width and Height as well as the Duration, if none of the parameters are entered it will take default values as 
@@ -92,12 +95,16 @@ Then we can select from the following BUTTONS as per our requirement
 - **Create Snippets:** After clicking on this `Create Snippets` the entered Video will be processed as per the specifications and the created SNIPPETS are stored locally  
   ![Screenshot 2023-11-26 153840](https://github.com/Atharva0177/Test-Git/assets/118592869/b6813a8b-d2fd-4c84-8d8e-a584ae55b3fb)  
 A new Folder is Created under the Title `output_resized` in which the snippets are saved in .avi format  
-![Screenshot 2023-11-26 154300](https://github.com/Atharva0177/Test-Git/assets/118592869/5d628730-29ef-417d-9943-027bb54766c9)  
-![Screenshot 2023-11-26 154007](https://github.com/Atharva0177/Test-Git/assets/118592869/8aa3386e-2e81-4c2b-9afa-a23f213b5a3c)
+![Screenshot 2023-11-26 154007](https://github.com/Atharva0177/Test-Git/assets/118592869/b7ca8c20-76b9-4a6c-ae21-6221b463052e)
+![Screenshot 2023-11-26 154300](https://github.com/Atharva0177/Test-Git/assets/118592869/cea6e000-e60e-4d36-a63a-95d85bebd625)  
+
+
+
 - **Create Frames:** When CLICKED on the `Create Frames` button all the individual frames for the selected video will be created and stored locally
 ![Screenshot 2023-11-30 215744](https://github.com/Atharva0177/Test-Git/assets/118592869/0343a87d-6cb7-4f1c-a06b-68ae18b3c865)
 A new Folder is Created under the Title `output_frames` in which the extracted frames will be stored
-![Screenshot 2023-11-30 215927](https://github.com/Atharva0177/Test-Git/assets/118592869/714d206a-c445-41ac-97d1-5d4998c520cb)
+![Screenshot 2023-11-30 215927](https://github.com/Atharva0177/Test-Git/assets/118592869/79132361-4b34-4760-83bc-192a586bbb80)
+
 ![Screenshot 2023-11-30 215957](https://github.com/Atharva0177/Test-Git/assets/118592869/6c5f03bd-0a16-43eb-bcc5-b676e08100f1)
 
 - **Self Capture:** The `Self Capture` button when clicked on accesses the webcam of your device and when provided with specified time duration will start to capture from the camera and convert into snippets of desired duration  
