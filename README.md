@@ -112,7 +112,8 @@ Once clicked on `Self Capture` the button changes to `Stop Capture` denoting the
 ![Screenshot 2023-11-30 215249](https://github.com/Atharva0177/Test-Git/assets/118592869/19ca7a6f-3e72-4d64-b235-cc9bac6cb3a1)  
 A new Folder is Created under the Title `output_webcam_snippets` in which the snippets from the webcam will be stored  
 ![Screenshot 2023-11-30 220736](https://github.com/Atharva0177/Test-Git/assets/118592869/b372c268-ade6-494e-9bad-2311743856ea)  
-![Screenshot 2023-11-30 220817](https://github.com/Atharva0177/Test-Git/assets/118592869/0b94900b-cb3a-4f75-8bbc-d9da8e90d860)
+![Screenshot 2023-11-30 221648](https://github.com/Atharva0177/Test-Git/assets/118592869/868efeb7-0e8e-4a9d-830e-8d71bd9b28ea)
+
  
 
 - **Browse Images and Paste:** When CLICKED on `Browse Images and Paste` the user is able to transfer any type of images from any location in the device to the root folder of the application
@@ -127,9 +128,10 @@ A new Folder is Created under the title `output_images` in the root folder of th
 ![Screenshot 2023-11-30 221943](https://github.com/Atharva0177/Test-Git/assets/118592869/9a0124c2-20dc-4096-8b3e-b51bdce12881)  
 For Example: I want to transfer a Folder named "Dice_30-11-2023_22-22-23" to a specifed destination lets say the root folder of the application
 For that I will select the folder to be copied
-![Screenshot 2023-11-30 222121](https://github.com/Atharva0177/Test-Git/assets/118592869/61d93668-007f-4dd4-b63f-a2eca1533dbc)
+![Screenshot 2023-11-30 222121](https://github.com/Atharva0177/Test-Git/assets/118592869/5a40307d-5e72-450a-b521-4feb02419e19)  
+
 Then I will select the Destination Folder and the selected folder will be transferred to the Location
-![Screenshot 2023-11-30 222420](https://github.com/Atharva0177/Test-Git/assets/118592869/bc95b69f-ed90-4783-82c6-29abcb4e874c)
+![Screenshot 2023-11-30 222420](https://github.com/Atharva0177/Test-Git/assets/118592869/172bb5d4-751f-488f-8efb-d76de1cef043)  
 
 # Going Further  
 Thank you for going through this Tutorial! We hope that you found it valuable.  
